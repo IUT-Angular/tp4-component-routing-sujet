@@ -1,6 +1,6 @@
 # TP4
 
-## Sujet
+## Sujet du TP4
 
 1. Mettre en place un composant unitaire pour le listing d'un livre
    - On injecte via le composant parent les infos à afficher séparemment
@@ -10,4 +10,4 @@
 
 ## Annexes
 
-1. [https://angular.dev/guide/routing/common-router-tasks](https://material.angular.io/components/paginator/overview)
+1. https://material.angular.io/components/paginator/overview
